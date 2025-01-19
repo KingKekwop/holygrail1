@@ -1,1 +1,45 @@
-# holygrail1
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>King Kekwop | Holy Grail Layout </title>
+    <meta name="description" content="A common layout example on the web called the 'holy grail' layout">
+    <meta name="author" content="King Kekwop Musa">
+</head>
+<body>console.log('Header loaded');
+console.log('Navigation loaded');
+console.log('Main content loaded');
+console.log('Aside loaded');
+console.log('Footer loaded');
+    <header>
+        <h1>A Holy Grail Layout Example</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.byupathway.edu/">BYUPATHWAY</a></li>
+            <li><a href="https://www.churchofjesuschrist.org/?lang=eng">THE CHURCH</a></li>
+            
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Holiness</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, beatae.</p>
+        </section>
+        <section>
+            <h2>hardworking</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, fugit?</p>
+        </section>
+        
+    </main>
+    <aside>
+        <img src ="https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/aba-nigeria/800x500/aba-nigeria-temple-lds-273999-wallpaper.jpg" alt="Aba Temple Nigeria" width="200">
+
+    </aside>
+    <footer>
+        <p>✨ King Kekwop ✨ Jos, Nigeria</p>
+    </footer>
+</body>
+</html> 
